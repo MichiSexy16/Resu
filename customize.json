@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Belén",
+  "greetingText": "Me encantas empezando por tu nombre",
+  "wishText": "Qué siempre permanezcamos juntos ;)",
+  "imagePath": "img/1.jpeg",
+  "text1": "Este es tu cumpleaños! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee!blah...",
+  "sendButtonLabel": "Enviar",
+  "text2": "Recorde la fecha tan única.",
+  "text3": "Entonces me detuve y..",
+  "text4": "Y realice este pequeño proyecto para mi novia",
+  "text4Adjective": "Tan especial",
+  "text5Entry": "Recuerda siempre te tendré en mi corazón,",
+  "text5Content": "Eres muy especial",
+  "smiley": ":)",
+  "bigTextPart1": "0",
+  "bigTextPart2": "7",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Espero y te haya gustado.",
+  "replayText": "O has clic si quieres verlo de nuevo.",
+  "outroSmiley": ":)"
+}
